@@ -1,1 +1,15 @@
-//add eyeball code here
+size(300,300);
+ellipse(150,150,260,260);
+noStroke();
+Fill(130,100,60);
+ellipse(150,150,150,150);
+Fill(190,150,0);
+ellipse(150,150,120,120);
+noStroke();
+Fill(190,150,0);
+ellipse(150,150,80,80);
+Fill(0,0,0);
+noStroke();
+ellipse(150,150,50,50);
+//Fill(255,255,255);
+//ellipse(170,130,20,20);
